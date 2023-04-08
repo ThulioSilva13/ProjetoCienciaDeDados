@@ -1,12 +1,12 @@
 # Projeto Ciência De Dados
 
-## Integrantes
+## Autores
 
-> Ingred Almeida
+> [Ingred Almeida](https://github.com/Emily-Lopes)
 
-> Tássia Martins
+> [Tássia Martins](https://github.com/tatamartinsg)
 
-> Thúlio Silva
+> [Thúlio Silva](https://github.com/ThulioSilva13)
 
 ## Descrição do projeto
 
