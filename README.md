@@ -6,7 +6,7 @@
 
 > [Tássia Martins](https://github.com/tatamartinsg)
 
-> [Thúlio Silva](https://github.com/ThulioSilva13)
+> [Thulio Silva](https://github.com/ThulioSilva13)
 
 ## Descrição do projeto
 
