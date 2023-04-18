@@ -39,5 +39,4 @@
 
 > ° Através do cálculo da média do CRA dos alunos de Ciência da Computação, esperamos ser possível classificar se uma amostra pertence ou não a população que representa os alunos do curso citado.
 
-> ° Tendo em vista a Lei N° 12.711 promulgada em 29 de agosto de 2012, também conhecida como a lei de cotas, é possivel inferir estatisticamente que ela cumpriu o seu papel social, aumentando a diversidade dentro das universidades?
 
