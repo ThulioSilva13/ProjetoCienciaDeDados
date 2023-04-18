@@ -10,6 +10,7 @@
 
 > [Marcus Vinicius](https://github.com/marcusguerra)
 
+> [João Francisco](https://github.com/jiotich)
 
 ## Descrição do projeto
 
