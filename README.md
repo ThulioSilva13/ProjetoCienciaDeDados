@@ -8,6 +8,9 @@
 
 > [Thulio Silva](https://github.com/ThulioSilva13)
 
+> [Marcus Vinicius](https://github.com/marcusguerra)
+
+
 ## Descrição do projeto
 
 > O projeto tem o foco em desenvolver um modelo capaz de medir a taxa de evasão dos alunos do curso de Ciência da Computação da Universidade Federal de Viçosa - Campus Florestal,  onde são classificados de acordo com alguns parâmetros como idade, gênero, data de ingresso no curso, raça, cidade onde vivia antes de se mudar para as aulas, nota obtida no ENEM, CRA, modalidade de ingresso e o número de reprovações.
@@ -35,3 +38,6 @@
 > ° Realizar o cálculo de estatísticas descritivas sobre o CRA de alunos que abandonaram o curso em comparação com o CRA de alunos que concluíram e dessa forma, tentamos estabelecer uma relação de influência entre o CRA e a evasão.
 
 > ° Através do cálculo da média do CRA dos alunos de Ciência da Computação, esperamos ser possível classificar se uma amostra pertence ou não a população que representa os alunos do curso citado.
+
+> ° Tendo em vista a Lei N° 12.711 promulgada em 29 de agosto de 2012, também conhecida como a lei de cotas, é possivel inferir estatisticamente que ela cumpriu o seu papel social, aumentando a diversidade dentro das universidades?
+
