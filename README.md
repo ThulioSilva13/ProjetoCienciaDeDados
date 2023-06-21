@@ -2,7 +2,7 @@
 
 ## Autores
 
-> [Ingred Almeida](https://github.com/Emily-Lopes)
+> [Ingred Almeida](https://github.com/ingredalmeida)
 
 > [Tássia Martins](https://github.com/tatamartinsg)
 
